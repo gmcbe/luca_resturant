@@ -1,0 +1,47 @@
+body {
+  background-color:#e9e3a4;
+}
+img.logo {
+  text-align: center;
+  margin-left:520px;
+  margin-top:100px;
+  margin-bottom:0px;
+  height:5%;
+
+}
+p {
+  font-family:Filosofia;
+  src:url(./fonts/filosofia-opentype_bigfontsite.com.otf)
+  border-top:400px;
+  text-align: center;
+  margin-top:50px;
+  font-family:Garamond, serif;
+}
+
+a.nav {
+  text-decoration:none;
+  color:black;
+  font-size:20px;
+  margin-right:25px;
+  border-right:1px solid black;
+  padding-right: 75px;
+  padding-left: 75px;
+}
+a.navlast {
+  text-decoration:none;
+  color:black;
+  font-size:20px;
+  margin-right:25px;
+  padding-right: 75px;
+  padding-left: 75px;
+}
+
+input {
+  background-color:#e9e3a4;
+  width: 300px;
+  height:40px;
+
+}
+form {
+  text-align:center;
+}
